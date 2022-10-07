@@ -1,0 +1,74 @@
+/* .signin{
+    background-color: aquamarine;
+} */
+.check-credentials-formsp{
+    margin:auto;
+    height: 300px;
+    width: 130%;
+    background-color: rgb(241, 241, 132); 
+    /* background-image: url("https://previews.123rf.com/images/atasitseli/atasitseli1804/atasitseli180400304/100060722-organic-food-concept-with-oil-and-spices-on-yellow-background-with-copy-space.jpg"); 
+     */
+}
+/* #input[type=text] {
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 100px;
+    padding-top: 30px;
+    padding-left: 20px;
+    width: 70%;
+    padding: 20px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid rgb(111, 21, 21);
+    box-sizing: border-box;
+  } */
+  /* #firstnamesp{
+    width: 80%;
+    
+    margin-left: 50px;
+  }
+  #lastnamesp{
+    width: 80%;
+    
+    margin-left: 50px;
+  } */
+  #usernamesp{
+    width: 50%;
+    padding: 10px;
+
+    margin-left: 50px;
+  } 
+
+  #emailsp{
+    width: 50%;
+    padding: 10px;
+    
+    margin-left: 50px;
+   
+  }
+  #passwordsp{
+    width: 50%;
+    padding: 10px;
+    
+    margin-left: 50px;
+   
+  }
+  #confirmpasswordsp{
+    width: 80%;
+    padding: 5px;
+    
+    margin-left: 50px;
+  }
+  /*  #phonesp{
+    width: 80%;
+    
+    margin-left: 50px; 
+  } */
+  .btnsignup{
+    color : rgba(185, 168, 21, 0.95);
+    margin-left: 100px;
+
+  }
+  
+
+  

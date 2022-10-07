@@ -1,0 +1,68 @@
+.testing{
+
+    /* background-color: rgba(226, 125, 66, 0.87)  ;
+
+    width: 100px;
+
+    margin-left: 200px;
+
+    height: 100px;
+
+  
+
+   font-family:cursive;
+
+   font-size: large;
+   display: flex;
+   padding: 10px,30px;
+   flex-direction: row;
+   gap: 100px; */
+   background-color: lightgoldenrodyellow;
+   font-family:cursive;
+   display: flex;
+   flex-direction: row;
+   width: 30%;
+   gap: 100px;
+   height: 100px;
+   padding: 10px,30px;
+   text-align: center;
+   font-size: large;
+  }
+
+  .test {
+
+    /* background-color: rgba(226, 125, 66, 0.87);
+
+    width: 100px;
+
+    margin-left: 200px;
+
+    height: 100px;
+
+   
+
+   font-size: large;
+
+
+   font-family:cursive;
+
+   font-size: large;
+   display: flex;
+   padding: 10px,30px;
+   flex-direction: row;
+   gap: 10px; */
+   background-color: lightgoldenrodyellow;
+   font-family:cursive;
+    display: flex;
+    flex-direction: row;
+    width: 30%;
+    gap: 10px;
+  }
+  
+  /* .ProductPageContainer {
+    display: flex;
+    gap: 20px;
+  } */
+ .neeha{
+   /* background:antiquewhite */
+ }
