@@ -53,7 +53,7 @@ const About = () => {
 
       <div class="tag">            
 
-               <h2>=>This is a OilsGhee ShoppingSite. <br/>=> We are in this industry for the longest time! <br/>
+               <h2 className='neeha'>=>This is a OilsGhee ShoppingSite. <br/>=> We are in this industry for the longest time! <br/>
 
          =>Everything is organic now!!!<br/>=>Enjoy the purest forms of organic Oils and Ghee!! <br/>
 
